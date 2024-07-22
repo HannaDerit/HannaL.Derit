@@ -1,2 +1,2 @@
-# HannaL.Derit
+# Hanna L. Derit
 My-First-Project
